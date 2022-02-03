@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://my-beaver-app.herokuapp.com",
+  "proxy": "https://beaver-app.herokuapp.com/api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
